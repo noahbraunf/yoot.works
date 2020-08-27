@@ -4,3 +4,9 @@ h1 {
     font-size: 4rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+video {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
